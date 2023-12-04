@@ -388,6 +388,7 @@ show_usage() {
 show_menu() {
     echo -e " 
     ${green}XrayR mua4g.com việt hóa${plain}
+————————————————
   ${green}XrayR Menu tiện ích${plain}
   ${green}0.${plain} Thay đổi cài đặt
 ————————————————
